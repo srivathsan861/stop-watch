@@ -1,0 +1,36 @@
+#container{
+	height: 40vh;
+	width: 40vw;
+	background: linear-gradient(purple,mediumpurple);
+	position: absolute;
+	left: 30vw;
+	top: 25vh;
+}
+
+#time{
+	position: relative;
+	text-align: center;
+	margin-top: 2rem;
+	}
+
+#time span{
+	color: orange;
+	margin: 2rem 0;
+	font-size: 3rem;
+}
+
+#buttons{
+	position: relative;
+	margin-left: 9rem;
+	margin-top: 5em;
+	width: 50%;
+}
+
+#buttons button{
+	background-color: transparent;
+	color: white;
+	border: 1px solid white;
+	margin: 1rem;
+	background:  linear-gradient(orange,orangered);
+}
+
